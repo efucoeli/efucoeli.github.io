@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efucoeli.github.io/DXr/sitemap_index.txt
+Sitemap: https://efucoeli.github.io/Mwu/sitemap_index.txt
+Sitemap: https://efucoeli.github.io/eaV/sitemap_index.txt
+Sitemap: https://efucoeli.github.io/yCf/sitemap_index.txt
